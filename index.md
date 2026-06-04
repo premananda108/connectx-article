@@ -10,6 +10,8 @@ Connect Four (known as ConnectX on Kaggle) is a classic board game that many of 
 
 However, translating this mathematical certainty into a competitive bot on a platform like Kaggle is a completely different challenge. You are bound by strict execution limits, memory constraints, and file size limits. Yet, the results exceeded expectations: **just one hour after uploading to the server, my new agent under the username Prema Ananda successfully secured 46th place on the** [Kaggle ConnectX Global Leaderboard](https://www.kaggle.com/competitions/connectx/leaderboard)!
 
+![Kaggle Leaderboard](Screenshot_1.png)
+
 This is the story of how I went from submitting a basic heuristic agent to building a highly competitive bot tested against absolute mathematical perfection—all from a standard laptop.
 
 ---
