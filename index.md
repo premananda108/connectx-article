@@ -12,7 +12,7 @@ However, translating this mathematical certainty into a competitive bot on a pla
 
 ![Kaggle Leaderboard](Screenshot_1.png)
 
-This is the story of how I went from submitting a basic heuristic agent to building a highly competitive bot tested against absolute mathematical perfection—all from a standard laptop.
+This is the story of how I went from submitting a basic heuristic agent to building a highly competitive bot tested against absolute mathematical perfection.
 
 ---
 
