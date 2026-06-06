@@ -91,3 +91,9 @@ By combining a mathematically verified opening book with a fast search engine (a
 The final ZIP archive, weighing just 7 MB, was successfully uploaded to the Kaggle servers. Just **1 hour** after submission, this new version under the handle **Prema Ananda** has already secured **46th place** on the [Kaggle ConnectX Global Leaderboard](https://www.kaggle.com/competitions/connectx/leaderboard) while continuing its evaluation matches.
 
 If you are working on game AI, remember: you don't always need a supercomputer to build highly competitive solutions. A laptop, a local arena, an AI partner at hand, and a structured approach to optimizing bottlenecks can take you remarkably far.
+
+---
+
+**P.S. (Update):** Just 24 hours after publishing this article, the agent has climbed significantly higher in the rankings and now consistently places in the **Top 10 teams** on the global leaderboard.
+
+![Kaggle Leaderboard Top 10](Screenshot_8.png)
