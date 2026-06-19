@@ -96,4 +96,4 @@ If you are working on game AI, remember: you don't always need a supercomputer t
 
 **P.S. (Update):** Just 24 hours after publishing this article, the agent has climbed significantly higher in the rankings and now consistently places in the **Top 20** (out of 461 teams) on the global leaderboard.
 
-![Kaggle Leaderboard Top 20](Screenshot_8.png)
+![Kaggle Leaderboard Top 20](Top1.png)
