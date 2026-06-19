@@ -4,7 +4,7 @@ title: Connect Four Bot for Kaggle
 description: Reaching the Kaggle Top 50
 ---
 
-# How I Engineered a Top-50 Connect Four Bot for Kaggle 
+# How I Engineered a Top-30 Connect Four Bot for Kaggle 
 
 Connect Four (known as ConnectX on Kaggle) is a classic board game that many of us played in childhood. Mathematically, it is a solved game: if both players make no mistakes, the first player will always win. 
 
